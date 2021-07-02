@@ -6,8 +6,8 @@
 
 ### Welcome to My Github 🙌🏻
 
-- 👨🏻‍💻 Currently working in Flutter.
-- 🔭 I’m currently working on BitCoin Exchange Rate App
+- 👨🏻‍💻 Currently working in Flutter/Graphic Designing/UI Designing.
+- 🔭 I’m currently working to improve my skills in every domain.
 - 🌱 I’m currently learning Flutter
 - 📫 Available at **[`hoenkava@gmail.com`](mailto:hoenkava@gmail.com)**, don't hesitate to reach out (always here to help 😉)
 - ⚡ Other Interests: **`🚵‍♀️Travelling`** | **`🚴‍♂️Adventurer`**
