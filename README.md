@@ -8,7 +8,7 @@
 
 - 👨🏻‍💻 Currently working as a Flutter Developer & Project Manager.
 - 🔭 Updating myself on daily basis.
-- 🌱 Looking for embedded developers.
+- 🌱 Looking To Connect with you.
 - 📫 Available at **[`hoenkava@gmail.com`](mailto:hoenkava@gmail.com)**, don't hesitate to reach out (always here to help 😉)
 - ⚡ Other Interests: **`🚵‍♀️Travelling`** | **`🚴‍♂️Adventurer`**
 
